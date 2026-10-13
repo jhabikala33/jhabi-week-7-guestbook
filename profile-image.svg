@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">Illustrated profile placeholder</title>
+  <desc id="desc">A friendly abstract portrait in green and peach tones.</desc>
+  <rect width="240" height="240" rx="120" fill="#e5eee1"/>
+  <circle cx="120" cy="119" r="90" fill="#d1e1cf"/>
+  <path d="M48 226c8-48 34-72 72-72s64 24 72 72" fill="#52745d"/>
+  <path d="M78 105c0-39 18-64 46-64 30 0 45 24 45 62v16c0 36-20 62-49 62-25 0-42-26-42-61z" fill="#a96f52"/>
+  <path d="M75 111c-8-44 10-79 44-85 27-5 52 9 60 38 4 15 4 32 1 47l-12-28c-20 6-47-2-64-20-5 23-14 39-29 48z" fill="#303d34"/>
+  <path d="M93 117c5-4 11-4 16 0m22 0c5-4 11-4 16 0" fill="none" stroke="#533c31" stroke-linecap="round" stroke-width="4"/>
+  <path d="M111 145c7 6 15 6 22 0" fill="none" stroke="#754a3c" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="91" cy="133" r="4" fill="#d48c70" opacity=".7"/>
+  <circle cx="150" cy="133" r="4" fill="#d48c70" opacity=".7"/>
+</svg>
